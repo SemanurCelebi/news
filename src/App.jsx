@@ -6,14 +6,7 @@ function App() {
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-            sema
-        </a>
-        <a href="https://react.dev" target="_blank">
-            çelebi
-        </a>
-      </div>
+      semanur çelebi
       <h1>Vite + Reacts</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
